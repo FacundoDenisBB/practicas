@@ -80,14 +80,3 @@ footer {
     font-weight: bold;
     margin: 10px 0 20px 0; /* Agrega un margen superior de 10px */
 }
-
-#title {
-    text-align: center;
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    border-radius: 10px;
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin: 10px 0 20px 0; /* Agrega un margen superior de 10px */
-}
